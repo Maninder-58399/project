@@ -1,0 +1,34 @@
+ .ring-banner img{
+    width: 1519px;
+} 
+.card {
+        max-width: 89vw;
+        margin: auto;
+        font-family: 'Abel', sans-serif;
+        padding: 0 0 0 100px
+       
+}
+.card h6{
+    height: 45px;
+}
+.mar-1{
+    margin: 26px 0;
+}
+.mar-2{
+    margin: 13px 0;
+}
+.text-center{
+    text-align: center;
+}
+.card-item{
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0px 10px;
+}
+.checkout button{
+    border-radius: 70px;
+    padding: 10px 160px 18px;
+    background: linear-gradient(45deg, black, transparent);
+    color: white;
+}
